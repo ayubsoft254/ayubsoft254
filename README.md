@@ -3,6 +3,11 @@
 </div>
 
 # Hi there am Ayub 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayubsoft254&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayubsoft254&langs_count=8)
+<p align="center">
+<a href="https://github.com/ayubsoft254">
+  <img height="181em" src="https://streak-stats.demolab.com/?user=ayubsoft254&theme=dark"/>
+  <img height="181em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayubsoft254&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="181em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayubsoft254&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
